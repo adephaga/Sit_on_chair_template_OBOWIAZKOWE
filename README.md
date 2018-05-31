@@ -1,1 +1,1 @@
-"# Sit_on_chair_template_OBOWIAZKOWE" 
+"# Sit_on_chair_template" 
